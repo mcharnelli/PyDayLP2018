@@ -1,6 +1,6 @@
 # PyDayLP2018
 
 
-El Dataset de MovieLens utilizado se puede descargar de https://grouplens.org/datasets/movielens/ .
-Se utilizó el dataset Full de 224 MB.
+Dataset utilizado en la charla
 
+https://www.kaggle.com/rounakbanik/the-movies-dataset/data
