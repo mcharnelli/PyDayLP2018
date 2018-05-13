@@ -1,4 +1,4 @@
-# PyDayLP2018
+# PyDay La Plata 2018
 
 
 Dataset utilizado en la charla
